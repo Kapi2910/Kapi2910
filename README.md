@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kapi2910
-- 👀 I’m interested in Robotics, Digital Electronics & Control Systems
+- 👀 I’m interested in Robotics, Control Systems and learning about behaviour in general.
 - 🌱 I'm currently in by 3rd year of UG in Electronics & Communication @ NITW
 
 <!---
