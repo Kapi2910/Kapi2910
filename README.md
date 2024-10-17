@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kapi2910
-- 👀 I’m interested in Robotics, Control Systems and learning about behaviour in general.
-- 🌱 I'm currently in by final year of UG in Electronics & Communication @ NITW
+- 👀 I’m interested in RF Sensing.
+- 🌱 I'm currently a second year PhD Student at UCSB.
 
 <!---
 Kapi2910/Kapi2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
